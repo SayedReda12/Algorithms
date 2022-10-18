@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleAreaAlgorithm", "CircleAreaAlgorithm\CircleAreaAlgorithm.csproj", "{B3E0CEBD-1B14-4C13-A089-C66812755A1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircleAreaAlgorithm", "CircleAreaAlgorithm\CircleAreaAlgorithm.csproj", "{B3E0CEBD-1B14-4C13-A089-C66812755A1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AhombusAreaAlgorithm", "AhombusAreaAlgorithm\AhombusAreaAlgorithm.csproj", "{1BE64CB7-D418-462B-A18A-893319D611B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AhombusAreaAlgorithm", "AhombusAreaAlgorithm\AhombusAreaAlgorithm.csproj", "{1BE64CB7-D418-462B-A18A-893319D611B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrapezoidAreaAlgorithm", "Trapezoid\TrapezoidAreaAlgorithm.csproj", "{08E8B8A1-87B4-42FA-9BC0-58D3D94BEF34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrapezoidAreaAlgorithm", "Trapezoid\TrapezoidAreaAlgorithm.csproj", "{08E8B8A1-87B4-42FA-9BC0-58D3D94BEF34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardDeviationAlgorithms", "StandardDeviationAlgorithms\StandardDeviationAlgorithms.csproj", "{18121C16-C35F-4169-B214-B1171BC118DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StandardDeviationAlgorithms", "StandardDeviationAlgorithms\StandardDeviationAlgorithms.csproj", "{18121C16-C35F-4169-B214-B1171BC118DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrelationAlgorithm", "CorrelationAlgorithm\CorrelationAlgorithm.csproj", "{E6A33FA1-688B-4CA2-AC42-33074EE93B3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CorrelationAlgorithm", "CorrelationAlgorithm\CorrelationAlgorithm.csproj", "{E6A33FA1-688B-4CA2-AC42-33074EE93B3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchAlgorithms", "BinarySearchAlgorithms\BinarySearchAlgorithms.csproj", "{A6036855-C3D8-4CF1-8B2B-1F0448B17836}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{E6A33FA1-688B-4CA2-AC42-33074EE93B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6A33FA1-688B-4CA2-AC42-33074EE93B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6A33FA1-688B-4CA2-AC42-33074EE93B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6036855-C3D8-4CF1-8B2B-1F0448B17836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6036855-C3D8-4CF1-8B2B-1F0448B17836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6036855-C3D8-4CF1-8B2B-1F0448B17836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6036855-C3D8-4CF1-8B2B-1F0448B17836}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
