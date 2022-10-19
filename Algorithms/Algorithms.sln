@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StandardDeviationAlgorithms
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CorrelationAlgorithm", "CorrelationAlgorithm\CorrelationAlgorithm.csproj", "{E6A33FA1-688B-4CA2-AC42-33074EE93B3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearchAlgorithms", "BinarySearchAlgorithms\BinarySearchAlgorithms.csproj", "{A6036855-C3D8-4CF1-8B2B-1F0448B17836}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearchAlgorithms", "BinarySearchAlgorithms\BinarySearchAlgorithms.csproj", "{A6036855-C3D8-4CF1-8B2B-1F0448B17836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegregatePositiveAndNegativeNumbersAlgorithm", "SegregatePositiveAndnegativeNumbersAlgorithms\SegregatePositiveAndNegativeNumbersAlgorithm.csproj", "{45933520-6601-4858-BB97-CB77FD66CD87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A6036855-C3D8-4CF1-8B2B-1F0448B17836}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6036855-C3D8-4CF1-8B2B-1F0448B17836}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6036855-C3D8-4CF1-8B2B-1F0448B17836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45933520-6601-4858-BB97-CB77FD66CD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45933520-6601-4858-BB97-CB77FD66CD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45933520-6601-4858-BB97-CB77FD66CD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45933520-6601-4858-BB97-CB77FD66CD87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
